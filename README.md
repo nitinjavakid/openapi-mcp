@@ -1,4 +1,4 @@
-# OpenAPI-MCP: Dockerized MCP Server to allow your AI agent to access any API with existing api docs
+# OpenAPI-MCP: Dockerized MCP Server to allow your AI agent to access any API with existing api docs 
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/ckanthony/openapi-mcp.svg)](https://pkg.go.dev/github.com/ckanthony/openapi-mcp)
 [![CI](https://github.com/ckanthony/openapi-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/ckanthony/openapi-mcp/actions/workflows/ci.yml)
